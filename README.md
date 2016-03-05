@@ -4,4 +4,4 @@ Extensively modifies the original plugin by removing extraneous code and spellin
 
 This plugin enhances the original plugin by requiring you to select a role in addition to the username and email.
 
-As long as you make sure that the first three columns of your csv are username, email, and role in that order you can specify the role of the user. For example and Author would be listed as 'author' in the role column (make sure it is undercase).
+As long as you make sure that the first three columns of your csv are username, email, and role in that order you can specify the role of the user. For example an Author would be listed as 'author' in the role column (make sure it is undercase).
