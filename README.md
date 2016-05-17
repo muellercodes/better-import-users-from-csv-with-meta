@@ -1,4 +1,4 @@
-# better-import-users-from-csv-with-meta
+# import-users-from-csv-with-meta-and-role
 A better version of the Wordpress User Import plugin created by Alberto Hornero and Javier Carazo at codection.com
 Extensively modifies the original plugin by removing extraneous code and spelling errors as well as adding the role column to specify a user's role.
 
