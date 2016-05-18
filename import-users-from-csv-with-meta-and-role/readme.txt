@@ -8,7 +8,7 @@ Stable tag: 1.7.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A plugin to import users using CSV files to WP database automatically including custom user meta and role
+A plugin to import users using CSV files to WP database automatically including custom user meta and role.
 
 
 ******This plugin builds upon the original plugin from Codection called 'Import users from CSV with meta'
